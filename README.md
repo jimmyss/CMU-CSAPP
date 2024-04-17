@@ -23,7 +23,7 @@
 - [CMU: Introduction to Computer Systems](https://www.cs.cmu.edu/~213/)
 
 ### 4. Notes
-
+一亩三分地参考资料：https://www.1point3acres.com/bbs/thread-909926-1-1.html
 
 
 ### 5. Labs
